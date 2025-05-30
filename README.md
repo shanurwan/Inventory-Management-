@@ -84,4 +84,10 @@ Beginner-Friendly – Accessible to users without advanced tech backgrounds.
 
 Scalable – Ready to support growing product catalogs or added complexity.
 
+
 ## This project demonstrates how even simple tools like Excel can drive meaningful operational improvements when paired with smart automation techniques. It reflects a problem-solving mindset and a practical understanding of supply chain and logistics processes.
+
+📎 Access the Demo File
+You can explore the fully functional system by downloading or previewing the Excel file here:
+
+🔗 (Download Excel VBA Inventory System (Google Drive))[https://drive.google.com/drive/folders/1fVbx4NCWum4oEzJ1jdK8E-UHyp3N_7X2?usp=sharing]
