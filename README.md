@@ -90,4 +90,4 @@ Scalable – Ready to support growing product catalogs or added complexity.
 📎 Access the Demo File
 You can explore the fully functional system by downloading or previewing the Excel file here:
 
-🔗 (Download Excel VBA Inventory System (Google Drive))[https://drive.google.com/drive/folders/1fVbx4NCWum4oEzJ1jdK8E-UHyp3N_7X2?usp=sharing]
+🔗 [Download Excel VBA Inventory System (Google Drive)][https://drive.google.com/drive/folders/1fVbx4NCWum4oEzJ1jdK8E-UHyp3N_7X2?usp=sharing]
